@@ -1,0 +1,6 @@
+{
+  "name": "FluidmotionTV-GuardianCoach",
+  "description": "Elite sports surf executive coach & coastal safety guardian with real-time bidirectional audio/video streaming, swimmer distress detection, and voiceover coaching.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
